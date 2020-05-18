@@ -90,7 +90,7 @@ public class UF6BDSpace {
         System.out.println("----------------------------------------------------------");
 
         //5.4 intentar eliminar nau
-        try_del_nau(nauscontrol, 4);
+        try_del_nau(nauscontrol, 1);
         // si se ha podido esborrar la nave 
         // aunque no entiendo porque lo elimina, creo que no deberia eliminar ya-
         // que existe como clave forana en otra tabla
